@@ -1,221 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on test</title>
-    <link>https://turcuciprian.github.io/1-test/posts.html</link>
-    <description>Recent content in Posts on test</description>
+    <title>Posts on Doxti.Tech</title>
+    <link>https://doxti.tech/posts.html</link>
+    <description>Recent content in Posts on Doxti.Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jan 2019 23:40:42 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jan 2019 18:23:39 +0000</lastBuildDate>
     
-	<atom:link href="https://turcuciprian.github.io/1-test/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://doxti.tech/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>asd</title>
-      <link>https://turcuciprian.github.io/1-test/posts/asd_1.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/asd_1.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
     
     <item>
-      <title>asd</title>
-      <link>https://turcuciprian.github.io/1-test/posts/asd_2.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      <title>First Post!</title>
+      <link>https://doxti.tech/posts/first-post.html</link>
+      <pubDate>Fri, 25 Jan 2019 18:23:39 +0000</pubDate>
       
-      <guid>https://turcuciprian.github.io/1-test/posts/asd_2.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>asd</title>
-      <link>https://turcuciprian.github.io/1-test/posts/asd_3.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/asd_3.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>asd</title>
-      <link>https://turcuciprian.github.io/1-test/posts/asd_4.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/asd_4.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>asd</title>
-      <link>https://turcuciprian.github.io/1-test/posts/asd_5.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/asd_5.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_0.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_0.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_1.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_1.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_2.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_2.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_3.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_3.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_4.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_4.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_5.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_5.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_6.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_6.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_7.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_7.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_8.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_8.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testing extra repository</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testing-extra-repository.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:30:58 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testing-extra-repository.html</guid>
-      <description> Here is a content example  list element2 list element3  repositoryName </description>
-    </item>
-    
-    <item>
-      <title>saving selectedResosittory default state</title>
-      <link>https://turcuciprian.github.io/1-test/posts/saving-selectedresosittory-default-state.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:17:15 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/saving-selectedresosittory-default-state.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testx</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testx.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testx.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testx</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testx_0.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testx_0.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testx</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testx_1.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testx_1.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testx2</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testx2.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testx2.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testx3</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testx3.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testx3.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://turcuciprian.github.io/1-test/posts/test.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/test.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
+      <guid>https://doxti.tech/posts/first-post.html</guid>
+      <description>But not just any post This post was created using https://doxti.com and is the first post for the tech blogging of doxti.tech. Of course, this first post is not going to be techie. But it is going to say something.
+Doxti SRL is a small fresh company from Cluj Napoca. It&amp;rsquo;s main product right now, is https://doxti.com, which is a static site generator User interface. Basically it&amp;rsquo;s a Admin Panel for HUGO from http://gohugo.</description>
     </item>
     
   </channel>
