@@ -192,15 +192,6 @@
     </item>
     
     <item>
-      <title>asd</title>
-      <link>http://localhost:8080/posts/asd.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>http://localhost:8080/posts/asd.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
       <title>testx</title>
       <link>http://localhost:8080/posts/testx.html</link>
       <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>

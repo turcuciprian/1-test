@@ -103,11 +103,6 @@
   </url>
   
   <url>
-    <loc>http://localhost:8080/posts/asd.html</loc>
-    <lastmod>2019-01-20T01:08:04+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:8080/posts/testx.html</loc>
     <lastmod>2019-01-20T01:08:04+02:00</lastmod>
   </url>
