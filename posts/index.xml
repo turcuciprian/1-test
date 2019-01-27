@@ -40,10 +40,136 @@
     
     <item>
       <title>asd</title>
+      <link>http://localhost:8080/posts/asd_1.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/asd_1.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>asd</title>
+      <link>http://localhost:8080/posts/asd_2.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/asd_2.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>asd</title>
+      <link>http://localhost:8080/posts/asd_3.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/asd_3.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>asd</title>
       <link>http://localhost:8080/posts/asd_4.html</link>
       <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
       
       <guid>http://localhost:8080/posts/asd_4.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>asd</title>
+      <link>http://localhost:8080/posts/asd_5.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/asd_5.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>mama mia are mere si a fost un film ciudat</title>
+      <link>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>mama mia are mere si a fost un film ciudat</title>
+      <link>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_0.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_0.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>mama mia are mere si a fost un film ciudat</title>
+      <link>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_1.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_1.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>mama mia are mere si a fost un film ciudat</title>
+      <link>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_2.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_2.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>mama mia are mere si a fost un film ciudat</title>
+      <link>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_3.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_3.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>mama mia are mere si a fost un film ciudat</title>
+      <link>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_4.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_4.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>mama mia are mere si a fost un film ciudat</title>
+      <link>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_5.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_5.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>mama mia are mere si a fost un film ciudat</title>
+      <link>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_6.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_6.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>mama mia are mere si a fost un film ciudat</title>
+      <link>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_7.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_7.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>mama mia are mere si a fost un film ciudat</title>
+      <link>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_8.html</link>
+      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_8.html</guid>
       <description> Here is a content example  list element2 list element3  </description>
     </item>
     
@@ -80,6 +206,42 @@
       <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
       
       <guid>http://localhost:8080/posts/testx.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>testx</title>
+      <link>http://localhost:8080/posts/testx_0.html</link>
+      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/testx_0.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>testx</title>
+      <link>http://localhost:8080/posts/testx_1.html</link>
+      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/testx_1.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>testx2</title>
+      <link>http://localhost:8080/posts/testx2.html</link>
+      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/testx2.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
+    
+    <item>
+      <title>testx3</title>
+      <link>http://localhost:8080/posts/testx3.html</link>
+      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
+      
+      <guid>http://localhost:8080/posts/testx3.html</guid>
       <description> Here is a content example  list element2 list element3  </description>
     </item>
     
