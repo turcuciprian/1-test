@@ -6,10 +6,19 @@
     <description>Recent content in Posts on test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 11:46:09 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 06 Feb 2019 23:04:17 +0200</lastBuildDate>
     
 	<atom:link href="https://turcuciprian.github.io/1-test/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test1</title>
+      <link>https://turcuciprian.github.io/1-test/posts/test1.html</link>
+      <pubDate>Wed, 06 Feb 2019 23:04:17 +0200</pubDate>
+      
+      <guid>https://turcuciprian.github.io/1-test/posts/test1.html</guid>
+      <description> Here is a content example  list element2 list element3  </description>
+    </item>
     
     <item>
       <title>sss</title>
