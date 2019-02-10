@@ -3,7 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/test-3.html</loc>
+    <lastmod>2019-02-09T22:40:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/test-4.html</loc>
+    <lastmod>2019-02-09T22:40:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/test.html</loc>
+    <lastmod>2019-02-09T17:37:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts/test-2.html</loc>
+    <lastmod>2019-02-09T17:37:02+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://turcuciprian.github.io/1-test/categories.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://turcuciprian.github.io/1-test/posts.html</loc>
+    <lastmod>2019-02-09T22:40:45+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,6 +40,7 @@
   
   <url>
     <loc>https://turcuciprian.github.io/1-test/</loc>
+    <lastmod>2019-02-09T22:40:45+02:00</lastmod>
     <priority>0</priority>
   </url>
   

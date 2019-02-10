@@ -1,167 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on test</title>
+    <title>Posts on test3</title>
     <link>https://turcuciprian.github.io/1-test/posts.html</link>
-    <description>Recent content in Posts on test</description>
+    <description>Recent content in Posts on test3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Feb 2019 23:04:17 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 09 Feb 2019 22:40:45 +0200</lastBuildDate>
     
 	<atom:link href="https://turcuciprian.github.io/1-test/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>test1</title>
-      <link>https://turcuciprian.github.io/1-test/posts/test1.html</link>
-      <pubDate>Wed, 06 Feb 2019 23:04:17 +0200</pubDate>
+      <title>test 3</title>
+      <link>https://turcuciprian.github.io/1-test/posts/test-3.html</link>
+      <pubDate>Sat, 09 Feb 2019 22:40:45 +0200</pubDate>
       
-      <guid>https://turcuciprian.github.io/1-test/posts/test1.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
+      <guid>https://turcuciprian.github.io/1-test/posts/test-3.html</guid>
+      <description>Here is a content example  list element2 list element3  Here is a content example  list element2 list element3  Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
+lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur.</description>
     </item>
     
     <item>
-      <title>sss</title>
-      <link>https://turcuciprian.github.io/1-test/posts/sss.html</link>
-      <pubDate>Tue, 05 Feb 2019 11:46:09 +0200</pubDate>
+      <title>test 4</title>
+      <link>https://turcuciprian.github.io/1-test/posts/test-4.html</link>
+      <pubDate>Sat, 09 Feb 2019 22:40:45 +0200</pubDate>
       
-      <guid>https://turcuciprian.github.io/1-test/posts/sss.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>asd</title>
-      <link>https://turcuciprian.github.io/1-test/posts/asd_3.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/asd_3.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>asd</title>
-      <link>https://turcuciprian.github.io/1-test/posts/asd_4.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/asd_4.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>asd</title>
-      <link>https://turcuciprian.github.io/1-test/posts/asd_5.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/asd_5.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_5.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_5.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_6.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_6.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_7.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_7.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>mama mia are mere si a fost un film ciudat</title>
-      <link>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_8.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:40:42 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/mama-mia-are-mere-si-a-fost-un-film-ciudat_8.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testing extra repository</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testing-extra-repository.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:30:58 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testing-extra-repository.html</guid>
-      <description> Here is a content example  list element2 list element3  repositoryName </description>
-    </item>
-    
-    <item>
-      <title>saving selectedResosittory default state</title>
-      <link>https://turcuciprian.github.io/1-test/posts/saving-selectedresosittory-default-state.html</link>
-      <pubDate>Sun, 20 Jan 2019 23:17:15 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/saving-selectedresosittory-default-state.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testx</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testx.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testx.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testx</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testx_0.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testx_0.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testx</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testx_1.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testx_1.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testx2</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testx2.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testx2.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
-    </item>
-    
-    <item>
-      <title>testx3</title>
-      <link>https://turcuciprian.github.io/1-test/posts/testx3.html</link>
-      <pubDate>Sun, 20 Jan 2019 01:08:04 +0200</pubDate>
-      
-      <guid>https://turcuciprian.github.io/1-test/posts/testx3.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
+      <guid>https://turcuciprian.github.io/1-test/posts/test-4.html</guid>
+      <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
+lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur. Zril laoreet vix at. In nihil oratio scribentur ius. Persius vulputate definiebas id per, ne est nullam vivendo theophrastus.</description>
     </item>
     
     <item>
       <title>test</title>
       <link>https://turcuciprian.github.io/1-test/posts/test.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Feb 2019 17:37:02 +0200</pubDate>
       
       <guid>https://turcuciprian.github.io/1-test/posts/test.html</guid>
-      <description> Here is a content example  list element2 list element3  </description>
+      <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
+lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur. Zril laoreet vix at. In nihil oratio scribentur ius. Persius vulputate definiebas id per, ne est nullam vivendo theophrastus.</description>
+    </item>
+    
+    <item>
+      <title>test 2</title>
+      <link>https://turcuciprian.github.io/1-test/posts/test-2.html</link>
+      <pubDate>Sat, 09 Feb 2019 17:37:02 +0200</pubDate>
+      
+      <guid>https://turcuciprian.github.io/1-test/posts/test-2.html</guid>
+      <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
+lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur. Zril laoreet vix at. In nihil oratio scribentur ius. Persius vulputate definiebas id per, ne est nullam vivendo theophrastus.</description>
     </item>
     
   </channel>
