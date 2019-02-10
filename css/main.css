@@ -1,344 +1,317 @@
-main {
-    max-width: 750px;
-    word-wrap: break-word;
+/*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
+
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html {
+    color: #222;
+    font-size: 1em;
+    line-height: 1.4;
 }
 
-/* Header */
+/*
+ * Remove text-shadow in selection highlight:
+ * https://twitter.com/miketaylr/status/12228805301
+ *
+ * Vendor-prefixed and regular ::selection selectors cannot be combined:
+ * https://stackoverflow.com/a/16982510/7133471
+ *
+ * Customize the background color to match your design.
+ */
 
-.global-header {
-    background-size: cover;
-    min-height: 350px;
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
 }
 
-.header-text {
-    position: relative;
-    min-height: inherit;
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
 }
 
-.header-text .tag-line {
-    margin: 25px auto;
-    padding: 0 10px;
-    max-width: 430px;
-    text-align: center;
-    font-weight: 200;
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
 }
 
-.header-text h1 {
-    margin: 0 auto;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    text-align: center;
-    font-weight: 100;
-    font-size: 52px;
-    border-bottom: 1px solid;
-    max-width: 550px;
-}
+/*
+ * Remove the gap between audio, canvas, iframes,
+ * images, videos and the bottom of their containers:
+ * https://github.com/h5bp/html5-boilerplate/issues/440
+ */
 
-.header-text h1 a {
-    text-decoration: none;
-}
-
-.btn-home {
-    position: absolute;
-    left: 20px;
-}
-
-/* Navbar */
-
-.navbar-container {
-    display: flex;
-    flex-direction: row-reverse;
-    position: absolute;
-    /* right: 20px; */
-    bottom: 20px;
-    width: 100%;
-    justify-content: center;
-}
-
-.navbar-item {
-    margin-left: 20px;
-    position: initial !important;
-}
-
-.navbar-item:last-child {
-    margin-left: 0px;
-}
-
-/* Language list */
-
-.language-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    position: absolute;
-    right: 20px;
-}
-
-.language-button {
-    margin-left: 5px;
-    position: initial !important;
-}
-
-@media (min-width: 900px) {
-  .language-container, .btn-home {
-    top: 20px;
-  }
-}
-
-/* Footer */
-
-.global-footer {
-    padding-top: 10px;
-    max-width: 750px;
-    height: 100px;
-}
-
-.global-footer .sns-links {
-    float: right;
-}
-
-.global-footer .sns-links a {
-    display: inline-block;
-    width: 24px;
-    height: 24px;
-    border-radius: 12px;
-    vertical-align: top;
-    text-align: center;
-    text-decoration: none;
-    font-size: 13px;
-    /*
-    XXX Maybe but this in? Somethimes it's not smooth and that makes it ugly...
-    transition: color,border-color 0.1s linear;
-    */
-}
-
-.global-footer .sns-links a i {
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
     vertical-align: middle;
 }
 
-/* Article */
+/*
+ * Remove default fieldset styles.
+ */
 
-.article-list h2 a {
-    text-decoration: none;
-    /*
-    XXX Maybe but this in? Somethimes it's not smooth and that makes it ugly...
-    transition: color 0.1s linear;
-    */
-}
-
-.article-title {
-    position: relative;
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
 }
 
-.article-title h1 {
-    font-size: 44px;
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
 }
 
-.article-title * {
-    text-align: center;
+/* ==========================================================================
+   Browser Upgrade Prompt
+   ========================================================================== */
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
 }
 
-.post-tag a {
-    padding: 0 10px;
-    border-radius: 12px;
-    text-decoration: none;
-    /*
-    XXX Maybe but this in? Somethimes it's not smooth and that makes it ugly...
-    transition: color,border-color,background-color 0.1s linear;
-    */
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Hide visually and from screen readers
+ */
+
+.hidden {
+    display: none !important;
 }
 
-.not-found h1 {
-    font-weight: 200;
-    font-size: 80px;
+/*
+ * Hide only visually, but have it available for screen readers:
+ * https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ *
+ * 1. For long content, line feeds are not interpreted as spaces and small width
+ *    causes content to wrap 1 word per line:
+ *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
+ */
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap; /* 1 */
 }
 
-.not-found {
-    text-align: center;
-}
+/*
+ * Extends the .visuallyhidden class to allow the element
+ * to be focusable when navigated to via the keyboard:
+ * https://www.drupal.org/node/897638
+ */
 
-.author-info {
-    overflow: auto;
-}
-
-.author-name {
-    margin: 0 0 5px 0;
-}
-
-.author-avatar img {
-    max-width: 100px;
-    max-height: 100px;
-    width: 100px;
-    height: 100px;
-}
-
-.author-contact {
-    margin-top: 10px;
-}
-
-/* Article list */
-
-.li-h1 {
-    margin-bottom: 2px;
-}
-
-.li-small {
-    font-size: 70%;
-    margin-top: 3px;
-    margin-bottom: 6px;
-}
-
-.read-more-container {
-    margin-top: 10px;
-}
-
-/* Tag list */
-
-#container-tags-title {
-    display: flex;
-    justify-content: space-between;
-}
-#btn-all-tags {
-    align-self: flex-end;
-    margin-bottom: 13px;
-}
-.list-group-item {
-  border-radius: 0px !important;
-}
-
-/* Bootstrap adjustions */
-
-h1,
-.h1 {
-  font-size: 36px;
-}
-h2,
-.h2 {
-  font-size: 30px;
-}
-h3,
-.h3 {
-  font-size: 24px;
-}
-h4,
-.h4 {
-  font-size: 18px;
-}
-h5,
-.h5 {
-  font-size: 14px;
-}
-h6,
-.h6 {
-  font-size: 12px;
-}
-
-pre {
-    font-size: 13px;
-}
-
-pre code {
-    overflow: auto;
-    white-space: pre;
-    word-wrap: normal;
-}
-
-blockquote {
-     font-style:italic;
-}
-
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "Source Sans Pro", "Kozuka Gothic Pr6N", Meiryo, sans-serif !important;
-}
-
-small, .small {
-  font-size: 80%;
-}
-
-a > .btn:hover {
-  text-decoration: none;
-}
-
-article section img {
-    max-width: 100%;
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
     height: auto;
-    margin: 13px auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+    white-space: inherit;
 }
 
-.btn {
-    font-size: 13px;
-    line-height: 1.58823529;
+/*
+ * Hide visually and from screen readers, but maintain layout
+ */
+
+.invisible {
+    visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media only screen and (max-width: 30em) {
+    /* Style adjustments for viewports that meet the condition */
+    html, body {
+        width   : 100vw;
+    }
+    .flex-column {
+        display         : -webkit-flex;
+        display         : flex;
+        flex-direction  : column;
+        flex-wrap       : nowrap;
+        justify-content : flex-start;
+    }
+    img {
+        max-width       : 90vw;
+    }
+    .ads {
+        display         : -webkit-flex;
+        display         : flex;
+        flex-direction  : column;
+        flex-wrap       : nowrap;
+        justify-content : center;
+        align-items     : center;
+        padding         : 0px;
+    }
+    .home {
+        flex-basis  : 98%;
+        padding     : 0 16px;
+    }
+}
+
+@media print,
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 1.25dppx),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid the additional HTTP request:
+   https://www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+
+@media print {
+    *,
+    *:before,
+    *:after {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster */
+        -webkit-box-shadow: none !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
     /*
-    XXX Specify a radius for the buttons here
-    */
-    border-radius: 0px;
-}
+     * Don't show links that are fragment identifiers,
+     * or use the `javascript:` pseudo protocol
+     */
 
-/*
-XXX Maybe but this in? Somethimes it's not smooth and that makes it ugly...
-.btn, .btn-primary, a.btn-default, a {
-    transition: all 0.1s linear;
-}
-*/
+    a[href^="#"]:after,
+    a[href^="javascript:"]:after {
+        content: "";
+    }
 
-.btn-older-posts {
-    float: left;
-}
+    pre {
+        white-space: pre-wrap !important;
+    }
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
 
-.btn-newer-posts {
-    float: right;
-}
+    /*
+     * Printing Tables:
+     * http://css-discuss.incutio.com/wiki/Printing_Tables
+     */
 
-/*
-Paging at the bottom
+    thead {
+        display: table-header-group;
+    }
 
-I don't use the default pager-class because I want to use the normal buttons with my style
-*/
-.pager-container {
-    overflow: auto;
-}
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
 
-.delimiter {
-    margin-left: -20px;
-    margin-right: -20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
 
-.pagination {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 20px;
-    border-radius: unset;
-}
-
-.info {
-    position: fixed;
-    bottom:0%;
-    width:100%;
-    padding: 10px;
-    display: flex;
-    text-align: center;
-    flex-direction: column;
-}
-
-.info-content {
-  margin: auto;
-  padding: 10px;
-}
-
-@media (min-width: 768px) {
-  .info-content {
-    width: 750px;
-  }
-}
-@media (min-width: 992px) {
-  .info-content {
-    width: 970px;
-  }
-}
-@media (min-width: 1200px) {
-  .info-content {
-    width: 1170px;
-  }
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
 }
