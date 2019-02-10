@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
     <title>test3</title>
     <link>http://127.0.0.1:8080/</link>
@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Feb 2019 22:40:45 +0200</lastBuildDate>
     
-	<atom:link href="http://127.0.0.1:8080/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://127.0.0.1:8080/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,10 @@
       <pubDate>Sat, 09 Feb 2019 22:40:45 +0200</pubDate>
       
       <guid>http://127.0.0.1:8080/posts/test-3.html</guid>
-      <description>Here is a content example  list element2 list element3  Here is a content example  list element2 list element3  Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
+      
+        <description>Here is a content example  list element2 list element3  Here is a content example  list element2 list element3  Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
 lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur.</description>
+      
     </item>
     
     <item>
@@ -27,8 +29,10 @@ lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum 
       <pubDate>Sat, 09 Feb 2019 22:40:45 +0200</pubDate>
       
       <guid>http://127.0.0.1:8080/posts/test-4.html</guid>
-      <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
+      
+        <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
 lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur. Zril laoreet vix at. In nihil oratio scribentur ius. Persius vulputate definiebas id per, ne est nullam vivendo theophrastus.</description>
+      
     </item>
     
     <item>
@@ -37,8 +41,10 @@ lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum 
       <pubDate>Sat, 09 Feb 2019 17:37:02 +0200</pubDate>
       
       <guid>http://127.0.0.1:8080/posts/test.html</guid>
-      <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
+      
+        <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
 lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur. Zril laoreet vix at. In nihil oratio scribentur ius. Persius vulputate definiebas id per, ne est nullam vivendo theophrastus.</description>
+      
     </item>
     
     <item>
@@ -47,8 +53,10 @@ lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum 
       <pubDate>Sat, 09 Feb 2019 17:37:02 +0200</pubDate>
       
       <guid>http://127.0.0.1:8080/posts/test-2.html</guid>
-      <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
+      
+        <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
 lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur. Zril laoreet vix at. In nihil oratio scribentur ius. Persius vulputate definiebas id per, ne est nullam vivendo theophrastus.</description>
+      
     </item>
     
   </channel>
