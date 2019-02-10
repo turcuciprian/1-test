@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test3</title>
-    <link>https://turcuciprian.github.io/1-test/</link>
+    <link>http://127.0.0.1:8080/</link>
     <description>Recent content on test3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Feb 2019 22:40:45 +0200</lastBuildDate>
     
-	<atom:link href="https://turcuciprian.github.io/1-test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://127.0.0.1:8080/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>test 3</title>
-      <link>https://turcuciprian.github.io/1-test/posts/test-3.html</link>
+      <link>http://127.0.0.1:8080/posts/test-3.html</link>
       <pubDate>Sat, 09 Feb 2019 22:40:45 +0200</pubDate>
       
-      <guid>https://turcuciprian.github.io/1-test/posts/test-3.html</guid>
+      <guid>http://127.0.0.1:8080/posts/test-3.html</guid>
       <description>Here is a content example  list element2 list element3  Here is a content example  list element2 list element3  Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
 lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur.</description>
     </item>
     
     <item>
       <title>test 4</title>
-      <link>https://turcuciprian.github.io/1-test/posts/test-4.html</link>
+      <link>http://127.0.0.1:8080/posts/test-4.html</link>
       <pubDate>Sat, 09 Feb 2019 22:40:45 +0200</pubDate>
       
-      <guid>https://turcuciprian.github.io/1-test/posts/test-4.html</guid>
+      <guid>http://127.0.0.1:8080/posts/test-4.html</guid>
       <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
 lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur. Zril laoreet vix at. In nihil oratio scribentur ius. Persius vulputate definiebas id per, ne est nullam vivendo theophrastus.</description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://turcuciprian.github.io/1-test/posts/test.html</link>
+      <link>http://127.0.0.1:8080/posts/test.html</link>
       <pubDate>Sat, 09 Feb 2019 17:37:02 +0200</pubDate>
       
-      <guid>https://turcuciprian.github.io/1-test/posts/test.html</guid>
+      <guid>http://127.0.0.1:8080/posts/test.html</guid>
       <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
 lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur. Zril laoreet vix at. In nihil oratio scribentur ius. Persius vulputate definiebas id per, ne est nullam vivendo theophrastus.</description>
     </item>
     
     <item>
       <title>test 2</title>
-      <link>https://turcuciprian.github.io/1-test/posts/test-2.html</link>
+      <link>http://127.0.0.1:8080/posts/test-2.html</link>
       <pubDate>Sat, 09 Feb 2019 17:37:02 +0200</pubDate>
       
-      <guid>https://turcuciprian.github.io/1-test/posts/test-2.html</guid>
+      <guid>http://127.0.0.1:8080/posts/test-2.html</guid>
       <description>Just some random title Coupled with some random text, let&amp;rsquo;s add some lorem ipsum:
 lorem ipsum coming: Lorem ipsum dolor sit amet, et appetere invidunt nam, ipsum sententiae et eos. Cum an meliore forensibus, nam tota dicat euismod ei, clita sadipscing in nam. Lorem tempor altera sed te, nec ut scriptorem omittantur. Zril laoreet vix at. In nihil oratio scribentur ius. Persius vulputate definiebas id per, ne est nullam vivendo theophrastus.</description>
     </item>
